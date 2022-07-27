@@ -173,7 +173,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[release-shield]: https://img.shields.io/github/releases/tomchang25/ck3-mod-localization-patch.svg?style=for-the-badge
+[release-shield]: https://img.shields.io/github/release/tomchang25/ck3-mod-localization-patch.svg?style=for-the-badge
 [release-url]: https://github.com/tomchang25/ck3-mod-localization-patch/releases
 [stars-shield]: https://img.shields.io/github/stars/tomchang25/ck3-mod-localization-patch.svg?style=for-the-badge
 [stars-url]: https://github.com/tomchang25/ck3-mod-localization-patch/stargazers
