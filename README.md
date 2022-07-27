@@ -1,11 +1,8 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 # CK3-Mod-Localization-Patch
@@ -175,11 +172,11 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/tomchang25/ck3-mod-localization-patch.svg?style=for-the-badge
 [stars-url]: https://github.com/tomchang25/ck3-mod-localization-patch/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/tomchang25/ck3-mod-localization-patch.svg?style=for-the-badge
 [issues-url]: https://github.com/tomchang25/ck3-mod-localization-patch/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/tomchang25/ck3-mod-localization-patch.svg?style=for-the-badge
 [license-url]: https://github.com/tomchang25/ck3-mod-localization-patch/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 
