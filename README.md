@@ -84,7 +84,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Complete Python backend server version
 - [x] Complete React website version
 - [ ] Complete electron version
-- [ ] Package to one exe
+- [ ] Pack to one exe
 - [ ] Detect duplicate sentence translation
 - [ ] Allow to choose mods to translation
 - [ ] Allow to choose playlist of mods to translation
