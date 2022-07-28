@@ -35,7 +35,6 @@
 
 Many great mods are available on Crusader Kings 3; however, not all of the mods have all language localization files. So there are many unreadable variables when people use this mod. I want to create an easy app that it'll be able to patch this mod, so people can use their native language without unreadable words like UNREAD_KEY_DES.
 
-Here's why:
 * Easy to use: you just click one button and let the app do all other jobs.
 * Compatible with original translation: the app will detect original translation and only patch the sentence not included in the original translation.
 
