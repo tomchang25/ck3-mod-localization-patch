@@ -41,16 +41,6 @@ Here's why:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Built With
-
-* [![Python][Python]][Python-url]
-* [![React][React.js]][React-url]
-* [![Electron][Electron.js]][Electron-url]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
 ## Installation
 
@@ -114,6 +104,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+### Built With
+
+* [![Python][Python]][Python-url]
+* [![React][React.js]][React-url]
+* [![Electron][Electron.js]][Electron-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
