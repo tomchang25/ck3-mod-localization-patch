@@ -101,11 +101,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Multi-language Support
     - [ ] Traditional Chinese
     - [ ] Japanese
-    
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Known bug
 - [ ] fix fr to ch error issue
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
