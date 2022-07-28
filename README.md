@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/tomchang25/ck3-mod-localization-patch">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">CK3-Mod-Localization-Patch</h3>
