@@ -83,8 +83,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Complete Python backend server version
 - [x] Complete React website version
 - [ ] Flask
+- [ ] Delpoly to PythonAnywhere
 - [ ] ~~Complete electron version~~
-- [ ] Pack to one exe
+- [ ] ~~Pack to one exe~~
 - [ ] Detect duplicate sentence translation
 - [ ] Allow to choose mods to translation
 - [ ] Allow to choose playlist of mods to translation
